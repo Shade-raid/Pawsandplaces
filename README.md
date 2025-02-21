@@ -57,8 +57,6 @@ Quraşdırma və Konfiqurasiya
 
 1️⃣ Repositoriyanı Klonlayın
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/dog-spotter.git
- cd dog-spotter
 
 2️⃣ Backend-i Quraşdırın
 
